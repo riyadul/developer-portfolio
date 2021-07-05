@@ -37,3 +37,22 @@ p{
 .top-banner{
     background-image: url(images/top-banner.png);
 }
+section{
+    display: flex;
+    margin-bottom: 1px;
+
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position:right;
+}
+.new{
+    width: 70%;
+}
+.new img{
+    width: 90%;
+    
+}
+   
+
